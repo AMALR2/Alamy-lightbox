@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.f-istok {
+    font-family: Istok Web;
+}
+
+.fs-32 {
+    font-size: 32px;
+}
+
+.fs-18 {
+    font-size: 17.978px;
+}
+
+.menu-item {
+    color: #fff;
+}
+
+.menu-item :hover {
+    color: #42FF6C;
+}
+
+.menu-item-divider {
+    color: rgba(155, 155, 155, 0.53);
+}
